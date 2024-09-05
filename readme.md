@@ -6,7 +6,6 @@
 
     - Download dataset publik (misalnya, dataset Iris atau Titanic) dari sumber online.
     - Lakukan pre-processing data seperti pembersihan data, pengisian nilai hilang, dan normalisasi fitur.
-
     ## Pelatihan Model:
 
     - Kembangkan model machine learning sederhana menggunakan Python (misalnya, model Logistic Regression atau Decision Tree).
