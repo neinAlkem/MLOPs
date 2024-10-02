@@ -1,4 +1,3 @@
-# Directories
 DATA_DIR = data/pre_processing
 RAW_DIR = data/raw
 MODEL_DIR = models
