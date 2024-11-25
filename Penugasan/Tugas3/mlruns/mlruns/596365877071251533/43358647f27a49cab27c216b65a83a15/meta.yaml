@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596365877071251533/43358647f27a49cab27c216b65a83a15/artifacts
+end_time: 1726125702716
+entry_point_name: ''
+experiment_id: '596365877071251533'
+lifecycle_stage: active
+run_id: 43358647f27a49cab27c216b65a83a15
+run_name: honorable-foal-1
+run_uuid: 43358647f27a49cab27c216b65a83a15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726125695916
+status: 3
+tags: []
+user_id: Bagas

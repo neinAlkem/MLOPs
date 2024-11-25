@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/596365877071251533/c6574abcb0f94c6aa99567d30f054fde/artifacts
+deleted_time: 1726729489941
+end_time: 1726729407311
+entry_point_name: ''
+experiment_id: '596365877071251533'
+lifecycle_stage: deleted
+run_id: c6574abcb0f94c6aa99567d30f054fde
+run_name: dashing-zebra-297
+run_uuid: c6574abcb0f94c6aa99567d30f054fde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726729401278
+status: 3
+tags: []
+user_id: Bagas
